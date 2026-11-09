@@ -51,18 +51,14 @@ Nginx welcome page successfully served through the Docker container.
 
 ## Project Screenshots
 
-### 1. Nginx Running Output
+   ### 1. Nginx Running Output
+   ![Nginx Running](screenshots/nginx-running.png)
 
-![Nginx Running](https://github.com/dumbcoder2/terraform-docker-task/raw/main/sscrenshort/01-nginx-running.png)
+   ### 2. Terraform Initialization
+   ![Terraform Init](screenshots/terraform-init.png)
 
-### 2. Terraform Initialization
+   ### 3. Docker Container Creation Using Terraform
+   ![Docker Creation](screenshots/docker-creation.png)
 
-![Terraform Init](https://github.com/dumbcoder2/terraform-docker-task/raw/main/sscrenshort/02-terraform-init.png)
-
-### 3. Docker Container Creation Using Terraform
-
-![Docker Creation](https://github.com/dumbcoder2/terraform-docker-task/raw/main/sscrenshort/03-terraform-docker-creation.png)
-
-### 4. Terraform Destroy
-
-![Terraform Destroy](https://github.com/dumbcoder2/terraform-docker-task/raw/main/sscrenshort/04-terraform-destroy.png)
+   ### 4. Terraform Destroy
+   ![Terraform Destroy](screenshots/terraform-destroy.png)
